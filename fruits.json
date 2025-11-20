@@ -1,0 +1,19 @@
+{
+  "apple": {
+    "country": "United States",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
+  },
+  "banana": {
+    "country": "Ecuador",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Flag_of_Ecuador.svg"
+  },
+  "mango": {
+    "country": "India",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"
+  },
+  "orange": {
+    "country": "Spain",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
+  }
+  // you can add more fruits here
+}
